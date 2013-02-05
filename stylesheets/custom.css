@@ -1,95 +1,30 @@
-body {
-	/*margin-top: 4%;*/
-	/*background-color: #2ba6cb;*/
-}
+h1, h2, h3, h4, h5, h6, p {color: white}
 
-.navt {
-	padding: 0px;
-}
-
-#navt {
-	background: #222;
-	padding: 0px;
+section {
+	margin-bottom: 3px;
+	padding: 5%;
 }
 
 .top-bar {
-	margin: 0px;
+	background-color: #5EBDCD;
+	margin-bottom: 3px;
 }
 
-section {
-	padding: 4%;
+.right a:hover {
+	background-color: #5EBDCD;
 }
 
-#action {
-	background-color: #000000;
-	padding:8%;
+#team-photo {
+	background-color: #C37AB1;
+	padding-top: 18%;
+	padding-bottom: 18%;
 }
 
-h1 {color: #F7F7F7;}
-.subheader {color: white;}
-
-.button {margin-top: 2%;}
-
-#extras {
-	background-color: lightgrey;
+#details {
+	background-color: #FCC42E;
 }
 
-#instructions h3{
-	color: #595959;
-}
-
-#instructions p{
-	color: #595959;
-}
-
-.counter{
-	color: #68B4E3;
-
-}
-
-#examples {
-	background-color: white;	
-}
-
-#examples h3, h4, h5{
-	color: #595959;
-}
-
-#end {
-	background-color: #2EA5E6;
-	padding: 2%;
-}
-
-#aboutus {
-	background-color: #3f3f3f;
-	padding: 2%;
-}
-
-#pricing {
-	/*background-color: #68B4E3;*/
-}
-
-#alert h1{
-	color: #68B4E3;
-}
-
-#alert {
-	background-color: #ecf8ff;
-	padding: 6%;
-}
-
-#alert .panel{
-	background-color: #3f3f3f;
-}
-
-footer {
-	background-color: #3f3f3f;
-}
-
-footer h6{
-	color: white;
-}
-
-footer p{
-	color: white;
+#about-us {
+	background-color: rgb(48,48,48);
+	padding: 1%;
 }

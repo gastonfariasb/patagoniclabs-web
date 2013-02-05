@@ -1,4 +1,4 @@
-application: wehaus-web
+application: patagoniclabs-web
 version: 1
 runtime: python
 api_version: 1
