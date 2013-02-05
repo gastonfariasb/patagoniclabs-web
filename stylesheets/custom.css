@@ -1,0 +1,95 @@
+body {
+	/*margin-top: 4%;*/
+	/*background-color: #2ba6cb;*/
+}
+
+.navt {
+	padding: 0px;
+}
+
+#navt {
+	background: #222;
+	padding: 0px;
+}
+
+.top-bar {
+	margin: 0px;
+}
+
+section {
+	padding: 4%;
+}
+
+#action {
+	background-color: #000000;
+	padding:8%;
+}
+
+h1 {color: #F7F7F7;}
+.subheader {color: white;}
+
+.button {margin-top: 2%;}
+
+#extras {
+	background-color: lightgrey;
+}
+
+#instructions h3{
+	color: #595959;
+}
+
+#instructions p{
+	color: #595959;
+}
+
+.counter{
+	color: #68B4E3;
+
+}
+
+#examples {
+	background-color: white;	
+}
+
+#examples h3, h4, h5{
+	color: #595959;
+}
+
+#end {
+	background-color: #2EA5E6;
+	padding: 2%;
+}
+
+#aboutus {
+	background-color: #3f3f3f;
+	padding: 2%;
+}
+
+#pricing {
+	/*background-color: #68B4E3;*/
+}
+
+#alert h1{
+	color: #68B4E3;
+}
+
+#alert {
+	background-color: #ecf8ff;
+	padding: 6%;
+}
+
+#alert .panel{
+	background-color: #3f3f3f;
+}
+
+footer {
+	background-color: #3f3f3f;
+}
+
+footer h6{
+	color: white;
+}
+
+footer p{
+	color: white;
+}
