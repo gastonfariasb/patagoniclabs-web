@@ -30,6 +30,16 @@ section {
 	padding-bottom: 10%;
 }
 
+#enterprise *{
+	/*color: #ABA89D;*/
+}
+
+#enterprise {
+	background-color: #ABA89D;
+	padding-top: 10%;
+	padding-bottom: 10%;
+}
+
 
 #about-us {
 	background-color: rgb(48,48,48);
@@ -39,6 +49,10 @@ section {
 .flat-panel {
 	/*background-color: #19BA9B;*/
 	padding: 1%;
+}
+
+.flat-panel img {
+	margin-top: 18px;
 }
 
 .product-logo {
