@@ -29,6 +29,7 @@
 
   <script src="javascripts/modernizr.foundation.js"></script>
   <script src="javascripts/jscustom.js"></script>
+  <script src="javascripts/jscustomlogo.js"></script>
   <style type="text/css">
     [class*="social foundicon-"]:before {
       font-family: "SocialFoundicons";
@@ -51,16 +52,20 @@
         <li><a href="#about-us">where</a></li>
       </ul>
   </nav>
-<canvas id="canvas">
 
+<section id="team-photo">
     <div class="five columns centered">
       <!-- <h1 style="font-size:90px">How about a photo ?</h1> -->
-      <img src="logo.png">
+      <img id="logo" src="logo.png">
     </div>
-  
-</canvas>
-  
+</section>
 
+<div class="row">
+    <canvas id="canvas_snow">
+    </canvas>
+  
+ 
+</div>
   <section id="details">
     <div class="row">
       <div class="four columns">
@@ -84,7 +89,7 @@
   <section id="products">
     <div class="row">
       <h3 style="margin-bottom:5%;">For Individuals</h3>
-      <div class="six columns pricehover">
+      <div class="six columns">
         <a href="http://www.wehaus.com/">
           <div class="flat-panel">
             <img src="SmartHome.png" class="product-logo">
@@ -93,7 +98,7 @@
           </div>
         </a>
       </div>
-      <div class="six columns pricehover" >
+      <div class="six columns" >
         <a href="http://www.patagoniclabs.com/#">
           <div class="flat-panel">
             <img src="SmartFarm.png" class="product-logo">

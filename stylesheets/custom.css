@@ -188,4 +188,5 @@ box-shadow: none;
 canvas {
   display: block; 
   background: #6b92b9;
+  align: center;
 }
