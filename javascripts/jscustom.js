@@ -2,7 +2,7 @@ window.onload = function(){
 	//canvas init
 	var canvas = document.getElementById("canvas");
 	var ctx = canvas.getContext("2d");
-
+	
 	//canvas dimensions
 	var W = window.innerWidth;
 	var H = window.innerHeight;
@@ -84,4 +84,3 @@ window.onload = function(){
 	//animation loop
 	setInterval(draw, 33);
 }
-
