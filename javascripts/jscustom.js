@@ -3,6 +3,8 @@ window.onload = function(){
 	var canvas = document.getElementById("canvas");
 	var ctx = canvas.getContext("2d");
 	
+
+
 	//canvas dimensions
 	var W = window.innerWidth;
 	var H = window.innerHeight;
