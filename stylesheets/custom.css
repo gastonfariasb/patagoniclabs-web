@@ -180,3 +180,12 @@ box-shadow: none;
 .price h2{
   text-align: center; line-height: 100px; color: #fff;
 }
+
+
+*Simple reset*/
+* {margin: 0; padding: 0;}
+
+canvas {
+  display: block; 
+  background: #6b92b9;
+}
