@@ -2,7 +2,8 @@ h1, h2, h3, h4, h5, h6, p {color: white}
 
 section {
 	margin-bottom: 3px;
-	padding: 5%;
+	padding-top: 5%;
+  padding-bottom: 5%;
 }
 
 .top-bar {
@@ -43,7 +44,8 @@ section {
 
 #about-us {
 	background-color: rgb(48,48,48);
-	padding: 1%;
+	padding-top: 1%;
+  padding-bottom: 1%;
 }
 
 .flat-panel {
