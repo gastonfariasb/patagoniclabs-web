@@ -1,6 +1,6 @@
 window.onload = function(){
 	//canvas init
-	var canvas = document.getElementById("canvas_snow");
+	var canvas = document.getElementById("canvas");
 	var ctx = canvas.getContext("2d");
 	
 	//canvas dimensions
@@ -84,4 +84,3 @@ window.onload = function(){
 	//animation loop
 	setInterval(draw, 33);
 }
-
