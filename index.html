@@ -29,7 +29,6 @@
 
   <script src="javascripts/modernizr.foundation.js"></script>
   <script src="javascripts/jscustom.js"></script>
-  <script src="javascripts/jscustomlogo.js"></script>
   <style type="text/css">
     [class*="social foundicon-"]:before {
       font-family: "SocialFoundicons";
@@ -47,26 +46,19 @@
       <li class="toggle-topbar"><a href="#"></a></li>
     </ul>
       <ul class="right">
-        <li><a href="#details"> who</a></li>
+        <li><a href="#details">who</a></li>
         <li><a href="#products">what</a></li>
         <li><a href="#about-us">where</a></li>
       </ul>
   </nav>
+<canvas id="canvas">
 
-<section id="team-photo">
     <div class="five columns centered">
       <!-- <h1 style="font-size:90px">How about a photo ?</h1> -->
-      <img id="logo" src="logo.png">
+      <img src="logo.png">
     </div>
-</section>
-
-<canvas id="canvas2">
-
-    </canvas>
-
-    <canvas id="canvas">
-
-    </canvas>
+  
+</canvas>
   
 
   <section id="details">
@@ -92,7 +84,7 @@
   <section id="products">
     <div class="row">
       <h3 style="margin-bottom:5%;">For Individuals</h3>
-      <div class="six columns">
+      <div class="six columns pricehover">
         <a href="http://www.wehaus.com/">
           <div class="flat-panel">
             <img src="SmartHome.png" class="product-logo">
@@ -101,7 +93,7 @@
           </div>
         </a>
       </div>
-      <div class="six columns" >
+      <div class="six columns pricehover" >
         <a href="http://www.patagoniclabs.com/#">
           <div class="flat-panel">
             <img src="SmartFarm.png" class="product-logo">
