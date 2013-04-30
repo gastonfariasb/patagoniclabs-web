@@ -1,5 +1,5 @@
 #navigation, .navigation-dummy {
-	background-color: rgb(21, 124, 141);
+	background-color: rgb(233, 181, 18);
 	padding-top: 12px;
 	padding-bottom: 12px;
 }
@@ -23,7 +23,7 @@ section {
 }
 
 #action, #small-image-hack {
-	background-color: #6b92b9;
+	background-color: rgb(102, 179, 58);
 	padding-top:6%;
 	padding-bottom:6%;
 	position: relative;
@@ -32,7 +32,7 @@ section {
 #action .image-hack {
 	position: absolute;
 	max-width: 42%;
-	min-width: 300px;
+	min-width: 200px;
 	left: 19%;
 	bottom: 0%;
 }
@@ -56,12 +56,12 @@ section {
 }
 
 #features, #features * {
-	background-color: #D05E3C;
+	background-color: rgb(60, 208, 208);
 	color: white;
 }
 
 #extras {
-	background-color: #8DC3D6;
+	background-color: rgb(194, 216, 30);
 }
 
 #extras * {
@@ -136,8 +136,4 @@ w1 {
 
 w2 { 
 	font-family: 'ABeeZee', sans-serif; font-size:40px; color: white; 
-}
-
-#newshit {
-	background-color: rgb(194, 216, 30);
 }

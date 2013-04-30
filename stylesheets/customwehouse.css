@@ -1,0 +1,219 @@
+#navigation, .navigation-dummy {
+	background-color: rgb(231, 185, 0);
+	padding-top: 12px;
+	padding-bottom: 12px;
+}
+
+.navigation-dummy {
+	padding: 1.7%;
+}
+
+.navigation-dummy * {
+	color: white;
+}
+
+#navigation * {
+	color: white;
+	text-align:center;
+}
+
+section {
+	padding-top: 4%;
+	padding-bottom: 4%;
+}
+
+#action, #small-image-hack {
+	background-color: #D05E3C;
+	padding-top:6%;
+	padding-bottom:6%;
+	position: relative;
+}
+
+#action .image-hack {
+	position: absolute;
+	max-width: 42%;
+	min-width: 300px;
+	left: 6%;
+	bottom: 0%;
+}
+
+#small-image-hack {
+	padding: 0px;
+	margin: 0px;
+}
+
+#small-image-hack img {
+	position: relative;
+	max-width: 100%
+}
+
+#action h1 {
+	color: #F7F7F7;
+}
+
+.subheader {
+	color: white;
+}
+
+#features, #features * {
+	background-color: #CC414D;
+	color: white;
+}
+
+#extras {
+	background-color: #8DC3D6;
+}
+
+#extras * {
+	color: white;
+}
+
+#platform {
+	background-color: #C4C946;
+}
+
+#product	 {
+	background-color: #841F6E;
+	color: white;
+}
+
+#product ul {
+	list-style-type:none;
+}
+
+label {
+	/*Mimicks h5*/
+	font-size: 17px;
+	font-family: "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+	font-weight: bold;
+	font-style: normal;
+	color: #222;
+	text-rendering: optimizeLegibility;
+	line-height: 1.1;
+	margin-bottom: 14px;
+	margin-top: 14px;
+	color: white;
+}
+
+.flat-panel {
+	margin: 5%;
+	padding: 10%;
+	background-color: #94B33A;
+	height:215px;
+}
+
+.flat-panel h2 {
+	float: left;
+	margin-right: 25px;
+}
+
+.flat-panel h2, h4, p {
+		color: white;
+		text-align: justify;
+}
+
+#aboutus {
+	background-color: #3f3f3f;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+
+footer {
+	background-color: #3f3f3f;
+}
+
+footer p, h6 {
+	color: white;
+}
+
+img.lan_flag {
+	vertical-align: middle;
+}
+
+
+w1 { 
+	font-family: 'ABeeZee', sans-serif; font-size:80px; color: white; 
+}
+
+w2 { 
+	font-family: 'ABeeZee', sans-serif; font-size:40px; color: white; 
+}
+
+.video-container {
+	position: relative;
+	padding-bottom: 56.25%;
+	padding-top: 30px;
+	height: 0;
+	overflow: hidden;
+}
+
+.video-container iframe,  
+.video-container object,  
+.video-container embed {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+specialh1 {
+   width: 750px;
+        font-size: 100px;
+        margin: 25px auto;
+        text-align: center;
+        color: #fff;
+        text-shadow: 0px 1px 1px #ddd,
+                     0px 2px 1px #d6d6d6,
+                     0px 3px 1px #ccc,
+                     0px 4px 1px #c5c5c5,
+                     0px 5px 1px #c1c1c1,
+                     0px 6px 1px #bbb,
+                     0px 7px 1px #777,
+                     0px 8px 3px rgba(100, 100, 100, 0.4),
+                     0px 9px 5px rgba(100, 100, 100, 0.1),
+                     0px 10px 7px rgba(100, 100, 100, 0.15),
+                     0px 11px 9px rgba(100, 100, 100, 0.2),
+                     0px 12px 11px rgba(100, 100, 100, 0.25),
+                     0px 13px 15px rgba(100, 100, 100, 0.3);
+}
+
+specialh1small {
+        position: relative;
+        max-width: 100%;
+        font-size: 50px;
+        margin: 40px auto;
+        text-align: center;
+        color: #fff;
+        text-shadow: 0px 1px 1px #ddd,
+                     0px 2px 1px #d6d6d6,
+                     0px 2px 1px #ccc,
+                     0px 3px 1px #c5c5c5,
+                     0px 4px 1px #c1c1c1,
+                     0px 5px 1px #bbb,
+                     0px 7px 1px #777,
+                     0px 4px 1px rgba(100, 100, 100, 0.4),
+                     0px 5px 2px rgba(100, 100, 100, 0.1),
+                     0px 5px 3px rgba(100, 100, 100, 0.15),
+                     0px 6px 4px rgba(100, 100, 100, 0.2),
+                     0px 7px 5px rgba(100, 100, 100, 0.25),
+                     0px 7px 7px rgba(100, 100, 100, 0.3);
+}
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
+}
+
+.video-container iframe,  
+.video-container object,  
+.video-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
