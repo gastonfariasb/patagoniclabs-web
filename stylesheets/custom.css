@@ -95,13 +95,10 @@ section {
   border: 0;
   }
 
-.pricehover{
-  text-align: center;
-  align: center;
-}
+
 .pricehover:hover{
--webkit-transform:scale(1.05); 
-box-shadow: 0 0 30px rgba(0, 0, 0, 0.67);
+-webkit-transform:scale(1.1); 
+box-shadow: 0 0 30px rgba(0, 0, 0, 2.67);
 -moz-box-shadow: 0 0 30px rgba(0, 0, 0, 0.67);
 -webkit-box-shadow: 0 0 30px rgba(0, 0, 0, 0.67);
 -webkit-transition: all 0.2s linear;
